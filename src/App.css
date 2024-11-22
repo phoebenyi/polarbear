@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+/* Home component specific styles */
+.home {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-action-button {
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+  cursor: pointer;
+  background: #cee4f8;
+  display: inline-block;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #000;
+}
+
+.home-polar-bear-image {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .home-action-button {
+    padding: 8px;
+  }
+}

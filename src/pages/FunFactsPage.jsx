@@ -5,7 +5,8 @@ import { motion } from 'framer-motion';
 
 const FunFactsPage = () => (
   <div style={{ textAlign: 'center', padding: '20px' }}>
-    <h1>Learn More about Polar Bears!</h1>
+    <h1>Learn More about Polar Bears</h1>
+    <h2>Drag and Move the Polar Bear Around!</h2>
     <PolarBear3D />
     <h2>This page is still in progress.</h2>
     <ol>
