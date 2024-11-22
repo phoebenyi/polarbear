@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const Home = () => (
   <div style={{ textAlign: 'center', padding: '20px' }}>
-    <h1>Save the Polar Bears</h1>
+    <h1>Help the Polar Bears</h1>
     <h2>Global climate warming melts sea ice which polar bears depend on to hunt, mate, roam and den. </h2>
     <p>
       Donate to Polar Bears International to support their work in protecting polar bears through research, policy, and on-the-ground conservation efforts!
