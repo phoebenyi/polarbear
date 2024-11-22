@@ -13,7 +13,7 @@ const Navbar = () => (
       fontFamily: 'Arial, sans-serif',
     }}
   >
-    <h1 style={{ margin: 0 }}>Save the Polar Bears</h1>
+    <h1 style={{ margin: 0 }}>Help the Polar Bears</h1>
     <div style={{ display: 'flex', gap: '15px' }}>
       <Link
         to="/"
