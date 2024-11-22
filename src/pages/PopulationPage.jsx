@@ -4,7 +4,7 @@ import React from 'react';
 const PopulationPage = () => (
   <div style={{ textAlign: 'center', padding: '20px' }}>
     <h1>Population Visualisations</h1>
-    <h2>This page is not updated.</h2>
+    <h2>This page is still in progress.</h2>
     <p style={{ fontSize: '18px', color: '#333', lineHeight: '1.6' }}>
       I explored <strong>Time Series Forecasting</strong> and <strong> Predictive Modeling</strong> methods by analyzing and forecasting polar bear population dynamics using <strong>Sea Ice Data</strong>. More details can be found on my
       <a
