@@ -50,6 +50,13 @@ page, and the dataset used is publicly available at:
       I hope you enjoy exploring the site and learning more about these amazing creatures as well as the challenges 
       they face due to climate change!
     </p>
+    <div>
+    <img
+      src="/assets/images/phoebepolar.jpg"
+      alt="Phoebe"
+      style={{ width: '600px', borderRadius: '10px' }}
+    />
+    </div>
   </div>
 );
 
