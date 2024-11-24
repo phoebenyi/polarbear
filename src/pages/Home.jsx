@@ -37,7 +37,7 @@ const Home = () => (
       <img
         src="/assets/images/p1.jpg"
         alt="Polar Bear"
-        className="home-polar-bear-image"
+        className="image"
       />
     </div>
     <h2>

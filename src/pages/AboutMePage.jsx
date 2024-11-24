@@ -7,7 +7,7 @@ const AboutMePage = () => (
     <img
       src="/assets/images/cat.jpg"
       alt="Phoebe"
-      style={{ width: '600px', borderRadius: '10px' }}
+      className="image"
     />
     </div>
     <p style={{ fontSize: '18px', color: '#333', lineHeight: '1.6' }}>
@@ -54,7 +54,7 @@ page, and the dataset used is publicly available at:
     <img
       src="/assets/images/phoebepolar.jpg"
       alt="Phoebe"
-      style={{ width: '600px', borderRadius: '10px' }}
+      className="image"
     />
     </div>
   </div>
