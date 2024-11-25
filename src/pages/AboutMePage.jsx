@@ -20,7 +20,7 @@ const AboutMePage = () => (
 
     {/* inuka */}
     <p style={{ fontSize: '18px', color: '#333', lineHeight: '1.6' }}>
-      I'm from Singapore, the same country as <strong>Inuka</strong>, the first polar bear to be born in the Tropics and the last Polar Bear to even be seen in Singapore after Wildlife Reserves Singapore (WRS) announced that it will not bring any more polar bears to Singapore. The pictures below shows Baby Inuka and his mother Sheba.
+      I'm from Singapore, the same country as <strong>Inuka</strong>, the first polar bear to be born in the Tropics and the last Polar Bear to even be seen in Singapore after Wildlife Reserves Singapore (WRS) announced that it will not bring any more polar bears to Singapore. The pictures below show Baby Inuka and his mother Sheba as well as my a souvenir I got of Inuka from The Singapore Zoo when I was younger. :D
     </p>
     <div>
       <img
